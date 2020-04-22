@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Weibo-Laravel
                 </div>
 
                 <div class="links">
